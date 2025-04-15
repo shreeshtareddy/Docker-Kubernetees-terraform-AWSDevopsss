@@ -1,6 +1,6 @@
 
 ```markdown
-#### Docker, Kubernetes, Terraform, AWS SDK, ECR, EKS, and CI/CD Setup
+# Docker, Kubernetes, Terraform, AWS SDK, ECR, EKS, and CI/CD Setup
 
 This repository contains multiple projects related to Docker, Kubernetes, Terraform, AWS SDK, ECR, EKS, and CI/CD pipelines. Each section below describes how to set up and run the respective project.
 

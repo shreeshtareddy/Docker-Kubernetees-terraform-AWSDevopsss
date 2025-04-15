@@ -1,12 +1,12 @@
 
 ```markdown
-# Docker, Kubernetes, Terraform, AWS SDK, ECR, EKS, and CI/CD Setup
+**# Docker, Kubernetes, Terraform, AWS SDK, ECR, EKS, and CI/CD Setup**__
 
 This repository contains multiple projects related to Docker, Kubernetes, Terraform, AWS SDK, ECR, EKS, and CI/CD pipelines. Each section below describes how to set up and run the respective project.
 
 ---
 
-## 1️⃣ Dockerized Flask App
+## 1️⃣** Dockerized Flask App**
 
 A simple Python Flask web app running inside a Docker container.
 
